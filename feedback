@@ -1,0 +1,5 @@
+Idea proposal: This is a strong and well-focused proposal addressing youth unemployment in Liberia. The problem is clearly defined, the SDG relevance is solid, and the ML approach is appropriate. To strengthen it, consider adding simple diagrams of the data flow, clarifying dataset coverage, and defining success metrics for job placements and skill matching.
+Literature review: Very good.
+Concept Note: Very good.
+Data prep: Very good, don’t add the source code, the result is enough.
+Deployment: Very good, don’t add your source and you can propose a web-based application to illustrate your example.
